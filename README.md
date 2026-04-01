@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Diego Tomas Dominguez - Portfolio Website
 
 A modern, responsive portfolio website built with Django that showcases my skills, projects, education, and contact information.
@@ -245,3 +246,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - Open source libraries and tools
 
 ---
+=======
+# My-portfolio
+This contains my website portfolio
+>>>>>>> 01e9938d88f201678ee16b47c20ef9896d98af28
